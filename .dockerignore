@@ -1,0 +1,20 @@
+.DS_Store
+.git
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+Acne/
+non-acne/
+train_local.py
+predict2.py
+
+debug_*.jpg
+debug_*.jpeg
+debug_*.png
+test*.jpg
+test*.jpeg
+test*.png
+barbara-krysztofiak-SfkPaoE_i34-unsplash copy.jpg

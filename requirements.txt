@@ -1,0 +1,13 @@
+streamlit==1.52.2
+deepface==0.0.83
+tensorflow==2.13.0
+keras==2.13.1
+numpy==1.23.5
+Pillow==9.5.0
+opencv-python-headless==4.8.0.76
+pandas==2.2.3
+gdown==5.2.0
+mtcnn==1.0.0
+retina-face==0.0.17
+fire==0.7.0
+tqdm==4.67.1

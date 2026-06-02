@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+
+Acne/
+non-acne/
+
+debug_*.jpg
+debug_*.jpeg
+debug_*.png
+debug_out.jpg
+test*.jpg
+test*.jpeg
+test*.png
+barbara-krysztofiak-SfkPaoE_i34-unsplash copy.jpg
+
+app.log
